@@ -12,3 +12,5 @@ O algoritmo receberá uma pequena imagem bitmap e realizará uma busca por uma c
 The algorithm will receive a small bitmap image and perform a search for a match in a capture of a 'specific part' of the desktop screen. If a match is found, a precise click will be triggered in the middle of the found image to accept. After that, the loop in which this is embedded will continue running for 50 seconds to ensure that the match has started and there won't be another match.
 
 Bom uso e obrigado por Ler! <3
+
+continuarei atualizando!

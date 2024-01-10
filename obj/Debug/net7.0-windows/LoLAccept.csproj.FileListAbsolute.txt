@@ -1,0 +1,69 @@
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.csproj.AssemblyReference.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.csproj.GenerateResource.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.AssemblyInfoInputs.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.AssemblyInfo.cs
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.csproj.CoreCompileInputs.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.Properties.Resources.resources
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\refint\LoLAccept.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.pdb
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\LoLAccept.exe
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\LoLAccept.deps.json
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\LoLAccept.runtimeconfig.json
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\LoLAccept.pdb
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\AForge.Imaging.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\AForge.Math.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\bin\Debug\net7.0-windows\WindowsInput.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.Form1.resources
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.csproj.CopyComplete
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.genruntimeconfig.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\ref\LoLAccept.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.csproj.AssemblyReference.cache
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAceept.Properties.Resources.resources
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAceept.Form1.resources
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.csproj.GenerateResource.cache
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.AssemblyInfoInputs.cache
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.AssemblyInfo.cs
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.csproj.CoreCompileInputs.cache
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\refint\LoLAccept.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.pdb
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\LoLAccept.exe
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\LoLAccept.deps.json
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\LoLAccept.runtimeconfig.json
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\LoLAccept.pdb
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\AForge.Imaging.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\AForge.Math.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\bin\Debug\net7.0-windows\WindowsInput.dll
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.csproj.CopyComplete
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\LoLAccept.genruntimeconfig.cache
+C:\Users\Erlley\Downloads\LOLACCEPTT\obj\Debug\net7.0-windows\ref\LoLAccept.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\LoLAccept.exe
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\LoLAccept.deps.json
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\LoLAccept.runtimeconfig.json
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\LoLAccept.pdb
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\AForge.Imaging.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\AForge.Math.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\bin\Debug\net7.0-windows\WindowsInput.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.csproj.AssemblyReference.cache
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAceept.Properties.Resources.resources
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAceept.Form1.resources
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.csproj.GenerateResource.cache
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.AssemblyInfoInputs.cache
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.AssemblyInfo.cs
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.csproj.CoreCompileInputs.cache
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.csproj.CopyComplete
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\refint\LoLAccept.dll
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.pdb
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\LoLAccept.genruntimeconfig.cache
+C:\Users\Erlley\Documents\LOLACCEPTT 1.1 BETA\obj\Debug\net7.0-windows\ref\LoLAccept.dll

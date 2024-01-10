@@ -1,0 +1,11 @@
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.csproj.AssemblyReference.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.Form1.resources
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.Properties.Resources.resources
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.csproj.GenerateResource.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.AssemblyInfoInputs.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.AssemblyInfo.cs
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAceept.csproj.CoreCompileInputs.cache
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\refint\LoLAccept.dll
+C:\Users\caval\source\repos\bot_lol\bot_lol\obj\Debug\net7.0-windows\LoLAccept.pdb

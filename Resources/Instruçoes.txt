@@ -1,0 +1,19 @@
+AutoAceept - instruçoes de uso::::
+
+1 - ative o bot antes de iniciar a fila
+
+2 - desative caso não seja necessario
+
+3 - o modo "sempre ativo" ira consumir mais recursos do seu computador!
+
+4 - sempre execute sempre como administrador!
+
+5 - selecione a resoluçao de acordo com do seu client (720 ou 580)
+
+------------------------------------------------------------------------------------------------------------------
+
+!! O bot ira desativar automaticamente em alguns segundos apos aceitar a partida, evitando perca de desempenho !!
+
+ - Meu nick no lol: DoisdCrazy
+
+-=-by DoisD

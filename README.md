@@ -1,4 +1,7 @@
 # aceitar-partidas-automaticamente-em-league-of-legends
+
+(Gostaria de deixar claro que Esse e o meu primeiro projeto usando c#, sou inciante em programação e estou buscando evoluir praticando.)
+
 Português BR: Um programa Windows Forms desenvolvido no Visual Studio que aceita automaticamente as partidas diretamente do cliente do jogo (muito útil quando você vai pegar um café e não quer perder seus preciosos 5 minutos de espera por uma partida...). Basicamente, utilizei a biblioteca Aforge.Net, System Drawing Image e 32Dll!
 
 English: A Windows Forms program created in Visual Studio that automatically accepts game matches directly from the game client (very useful when you're grabbing a coffee and don't want to lose your precious 5 minutes waiting for a match...). Essentially, I used the Aforge.Net library, System Drawing Image, and 32Dll!
